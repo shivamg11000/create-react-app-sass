@@ -1,4 +1,4 @@
-git clone https://github.com/shivamg11000/create-react-app-sass.git
+git clone https://github.com/shivamg11000/create-react-app-sass.git  or download zip
 
 npm install
 
